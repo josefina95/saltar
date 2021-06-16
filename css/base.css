@@ -23,37 +23,37 @@ body {
 
 .demo-1 {
 	--color-text: #ffffff;
-    --color-link: #1c4a62;
+    --color-link: #000000;
     --color-link-hover: #fff;
 }
 
 .demo-3 {
-	--color-text: #3ca5c7;
-    --color-link: #d29021;
-    --color-link-hover: #b97a0e;
+	--color-text: #ffffff;
+    --color-link: #000000;
+    --color-link-hover: #ffffff;
 }
 
 .demo-4 {
-	--color-text: #b9735d;
-	--color-link: #fff;
-	--color-link-hover: #b9735d;
+	--color-text: #ffffff;
+	--color-link: rgb(0, 0, 0);
+	--color-link-hover: #ffffff;
 }
 
 .demo-5 {
-	--color-text: #01a19c;
-	--color-link: #fff;
-	--color-link-hover: #01a19c;
+	--color-text: #ffffff;
+	--color-link: #000000;
+	--color-link-hover: #ffffff;
 }
 
 .demo-6 {
-	--color-text: #e8a770;
-	--color-link: #fff;
-	--color-link-hover: #e8a770;
+	--color-text: #ffffff;
+	--color-link: #000000;
+	--color-link-hover: #ffffff;
 }
 
 .demo-7 {
-	--color-link: #fff;
-	--color-link-hover: #000;
+	--color-link: #000000;
+	--color-link-hover: #ffffff;
 }
 
 .demo-8 {
